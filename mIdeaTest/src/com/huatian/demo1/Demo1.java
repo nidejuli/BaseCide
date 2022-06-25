@@ -7,5 +7,6 @@ public class Demo1 {
         System.out.println("每天都提交代码");
         System.out.println("我要提交代码");
         System.out.println("哈哈哈");
+        System.out.println("在idea中写的");
     }
 }
