@@ -5,5 +5,6 @@ public class Demo1 {
         //使用IDEA编写的项目
         System.out.println("你好啊");
         System.out.println("每天都提交代码");
+        System.out.println("我要提交代码");
     }
 }
